@@ -13,3 +13,4 @@ class Program:
     pers.print_person_info()
     dir.change_data("gir", "Имя", "Настя")
     dir.directory[0].print_person_info()
+print("Hello")
